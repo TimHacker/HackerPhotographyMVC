@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.dll</TopNode>
+  <SelectedNode>[0-1003]C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]HackerPhotography" Expanded="true" />
+    <Node UniqueName="[0-1005]HackerPhotography.Tests" Expanded="true" />
+    <Node UniqueName="[0-1006]HackerPhotography.Tests.Controllers" Expanded="true" />
+    <Node UniqueName="[0-1000]HackerPhotography.Tests.Controllers.HomeControllerTest" Expanded="true" />
+  </Nodes>
+</VisualState>

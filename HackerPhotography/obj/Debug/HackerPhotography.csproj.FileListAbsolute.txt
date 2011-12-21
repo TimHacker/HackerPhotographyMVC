@@ -1,0 +1,10 @@
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\HackerPhotography.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\HackerPhotography.pdb
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\EntityFramework.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\obj\Debug\ResolveAssemblyReference.cache
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\obj\Debug\HackerPhotography.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\obj\Debug\HackerPhotography.pdb
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\System.Data.SqlServerCe.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\System.Data.SqlServerCe.Entity.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\WebActivator.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\WebActivator.pdb

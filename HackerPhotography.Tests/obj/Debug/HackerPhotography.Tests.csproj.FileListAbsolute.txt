@@ -1,0 +1,15 @@
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.dll.config
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.Tests.pdb
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\nunit.framework.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\nunit.mocks.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\pnunit.framework.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\EntityFramework.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\HackerPhotography.pdb
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\nunit.framework.xml
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\obj\Debug\HackerPhotography.Tests.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\obj\Debug\HackerPhotography.Tests.pdb
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\WebActivator.dll
+C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography.Tests\bin\Debug\WebActivator.pdb

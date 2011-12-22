@@ -1,0 +1,41 @@
+@model HackerPhotography.Models.Photo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Photo</legend>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">@Model.Name</div>
+
+    <div class="display-label">SortOrder</div>
+    <div class="display-field">@Model.SortOrder</div>
+
+    <div class="display-label">Date</div>
+    <div class="display-field">@String.Format("{0:g}", Model.Date)</div>
+
+    <div class="display-label">Url</div>
+    <div class="display-field">@Model.Url</div>
+
+    <div class="display-label">AlternateDescription</div>
+    <div class="display-field">@Model.AlternateDescription</div>
+
+    <div class="display-label">Height</div>
+    <div class="display-field">@Model.Height</div>
+
+    <div class="display-label">Width</div>
+    <div class="display-field">@Model.Width</div>
+
+    <div class="display-label">Album</div>
+    <div class="display-field">@(Model.Album == null ? "None" : Model.Album.Name)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.PhotoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

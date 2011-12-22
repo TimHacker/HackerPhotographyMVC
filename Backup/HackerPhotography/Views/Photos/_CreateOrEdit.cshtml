@@ -1,0 +1,71 @@
+@model HackerPhotography.Models.Photo
+
+@* This partial view defines form fields that will appear when creating and editing entities *@
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Name)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Name)
+    @Html.ValidationMessageFor(model => model.Name)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.SortOrder)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.SortOrder)
+    @Html.ValidationMessageFor(model => model.SortOrder)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Date)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Date)
+    @Html.ValidationMessageFor(model => model.Date)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Url)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Url)
+    @Html.ValidationMessageFor(model => model.Url)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.AlternateDescription)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.AlternateDescription)
+    @Html.ValidationMessageFor(model => model.AlternateDescription)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Height)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Height)
+    @Html.ValidationMessageFor(model => model.Height)
+</div>
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.Width)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.Width)
+    @Html.ValidationMessageFor(model => model.Width)
+</div>
+
+<div class="editor-label">
+    Album
+</div>
+<div class="editor-field">
+    @Html.DropDownListFor(model => model.AlbumId, ((IEnumerable<HackerPhotography.Models.Album>)ViewBag.PossibleAlbums).Select(option => new SelectListItem {
+        Text = (option == null ? "None" : option.Name), 
+        Value = option.AlbumId.ToString(),
+        Selected = (Model != null) && (option.AlbumId == Model.AlbumId)
+    }), "Choose...")
+    @Html.ValidationMessageFor(model => model.AlbumId)
+</div>

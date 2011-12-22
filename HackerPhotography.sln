@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerPhotography", "HackerPhotography\HackerPhotography.csproj", "{AC68FC0F-564D-455B-9806-B612F7AB2353}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerPhotography.Tests", "HackerPhotography.Tests\HackerPhotography.Tests.csproj", "{DD3C4A09-2CAB-4681-A1C2-FEC85A5BA988}"

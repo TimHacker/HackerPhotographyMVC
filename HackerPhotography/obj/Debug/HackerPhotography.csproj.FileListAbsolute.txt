@@ -8,3 +8,13 @@ C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\System.Data.Sq
 C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\System.Data.SqlServerCe.Entity.dll
 C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\WebActivator.dll
 C:\MyTCUK\Solutions\Tests\HackerPhotography\HackerPhotography\bin\WebActivator.pdb
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\HackerPhotography.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\HackerPhotography.pdb
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\EntityFramework.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\System.Data.SqlServerCe.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\System.Data.SqlServerCe.Entity.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\WebActivator.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\bin\WebActivator.pdb
+C:\Sites\HackerPhotographyMVC\HackerPhotography\obj\Debug\HackerPhotography.csprojResolveAssemblyReference.cache
+C:\Sites\HackerPhotographyMVC\HackerPhotography\obj\Debug\HackerPhotography.dll
+C:\Sites\HackerPhotographyMVC\HackerPhotography\obj\Debug\HackerPhotography.pdb
